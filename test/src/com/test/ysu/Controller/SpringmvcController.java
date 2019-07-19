@@ -14,6 +14,7 @@ import com.test.ysu.entity.Student;
 //接口/类/注解/配置
 @Controller
 @RequestMapping("test")
+//我这是第二次修改了。。。
 public class SpringmvcController {
 
 	@RequestMapping(value="welcome")
